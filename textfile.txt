@@ -2,8 +2,5 @@ Textfile for github account!!
 change
 first editing
 second editing!!!
-<<<<<<< HEAD
-third!33
-=======
-three
->>>>>>> d94f895af7c4237e106678af92f4212646fee8c8
+third 3333
+4th
